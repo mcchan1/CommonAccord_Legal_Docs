@@ -1,0 +1,27 @@
+CONSULTING
+"Confidential Information" as used in this Agreement shall mean any and all technical and non-technical information disclosed, whether provided orally or in writing and on any medium, by the Client to the Consultant, whether during or before the term of this Agreement, including without limitation:
+
+1. any ideas, materials, trade secrets, patent and patent applications, know-how, formulas, processes, software programs, software source documents, algorithms, strategies, inventions, data, designs, flow charts, drawings, proprietary information, current or potential client details, employee details, business and marketing plans, financial and operational information, material or data relating to the current and/or future business and operations;
+
+2. any analyses, compilations, studies, summaries, extracts or other documentation prepared by the Consultant or its Authorized Representatives based on Confidential Information disclosed by the Client;
+
+3. any information regarding the skills and compensation of employees, contractors or other agents of the Client or its subsidiaries or affiliates; and
+
+4. existence of any business discussions, negotiations or agreements between the parties.
+
+
+
+MUTUAL NDA
+"Confidential Information" as used in this Agreement shall mean any and all technical and non-technical information disclosed, whether provided orally or in writing and on any medium, by such Party (the "Disclosing Party") to the other Party (the "Receiving Party"), whether during or before the term of this Agreement, including without limitation:
+
+1. any ideas, materials, trade secrets, patent and patent applications, know-how, formulas, processes, software programs, software source documents, algorithms, strategies, inventions, data, designs, flow charts, drawings, proprietary information, current or potential client details, employee details, business and marketing plans, financial and operational information, material or data relating to the current and/or future business and operations;
+
+2. any analyses, compilations, studies, summaries, extracts or other documentation prepared by the Receiving Party or its Authorized Representatives based on Confidential Information disclosed by the Disclosing Party;
+
+3. any information regarding the skills and compensation of employees, contractors or other agents of the Disclosing Party or its subsidiaries or affiliates; and
+
+4. existence of any business discussions, negotiations or agreements between the parties.
+
+
+
+
